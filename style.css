@@ -1,0 +1,24 @@
+h1{
+    background-color: yellow;
+    color: blue;
+    font-family: 'Roboto Mono';
+    text-align: center;
+}
+body{
+background-image: url(./img/showcase.jpg);
+}
+div{
+    background-color: gray;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 10px;
+}
+h2{
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+p{
+    margin: 10px;
+}
